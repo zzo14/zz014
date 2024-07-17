@@ -21,4 +21,4 @@ I'm a Developer passionate about creating innovative solutions and enhancing use
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-zou/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/patrick-zou/)
