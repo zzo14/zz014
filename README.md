@@ -18,7 +18,6 @@ I'm a Developer passionate about creating innovative solutions and enhancing use
 ![.NET](https://img.icons8.com/color/48/000000/net-framework.png)
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## Connect with Me
