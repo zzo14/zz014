@@ -8,18 +8,18 @@ I'm a Developer passionate about creating innovative solutions and enhancing use
 - 🤝 I'm looking to collaborate with other developers and contribute to exciting projects.
 
 ## Skills and Tools
-![Python](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/python/python.png)
-![Flask](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/flask/flask.png)
-![MySQL](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/mysql/mysql.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/javascript/javascript.png)
-![HTML5](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/html/html.png)
-![CSS3](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/css/css.png)
-![React](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/react/react.png)
-![.NET](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/dotnet/dotnet.png)
-![C#](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/csharp/csharp.png)
-![Git](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/git/git.png)
-![GitHub](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/github/github.png)
-![Visual Studio Code](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/visual-studio-code/visual-studio-code.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![.NET](https://img.icons8.com/color/48/000000/net-framework.png)
+![C#](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-zou/)
