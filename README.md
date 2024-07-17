@@ -9,7 +9,7 @@ I'm a Developer passionate about creating innovative solutions and enhancing use
 
 ## Skills and Tools
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![Flask](https://img.icons8.com/ios-glyphs/48/000000/flask.png)
+![Flask](https://img.icons8.com/color/48/000000/flask.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
