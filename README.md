@@ -3,7 +3,7 @@
 I'm a Developer passionate about creating innovative solutions and enhancing user experiences. Welcome to my personal space where I showcase my latest projects and interests.
 
 ## About Me
-- 👨‍💻 I'm currently working on the Bruce Bay Beans & Bunks Management System!
+- 👨‍💻 I'm currently working on my Master's degree.
 - 📚 I'm constantly learning new technologies and improving my skills.
 - 🤝 I'm looking to collaborate with other developers and contribute to exciting projects.
 
