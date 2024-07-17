@@ -8,15 +8,18 @@ I'm a Developer passionate about creating innovative solutions and enhancing use
 - 🤝 I'm looking to collaborate with other developers and contribute to exciting projects.
 
 ## Skills and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/python/python.png)
+![Flask](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/flask/flask.png)
+![MySQL](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/mysql/mysql.png)
+![JavaScript](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/javascript/javascript.png)
+![HTML5](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/html/html.png)
+![CSS3](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/css/css.png)
+![React](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/react/react.png)
+![.NET](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/dotnet/dotnet.png)
+![C#](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/csharp/csharp.png)
+![Git](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/git/git.png)
+![GitHub](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/github/github.png)
+![Visual Studio Code](https://raw.githubusercontent.com/github/explore/06e17b11175ec5f650b9e5bbeb988e0d8a6e841e/topics/visual-studio-code/visual-studio-code.png)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-zou/)
