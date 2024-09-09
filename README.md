@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5385c99-6dcc-44a2-adb1-cfb9c06acf89)# Hi there, I'm Patrick 👋
+# Hi there, I'm Patrick 👋
 
 I'm a Developer passionate about creating innovative solutions and enhancing user experiences. Welcome to my personal space where I showcase my latest projects and interests.
 
@@ -8,7 +8,7 @@ I'm a Developer passionate about creating innovative solutions and enhancing use
 - 🤝 I'm looking to collaborate with other developers and contribute to exciting projects.
 
 ## Skills and Tools
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)  
+![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)  
 ![Flask](https://img.icons8.com/ios/50/FFFFFF/flask.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
