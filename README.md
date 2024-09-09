@@ -8,7 +8,7 @@ I'm a Developer passionate about creating innovative solutions and enhancing use
 - 🤝 I'm looking to collaborate with other developers and contribute to exciting projects.
 
 ## Skills and Tools
-![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)  
+![Python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)
 ![Flask](https://img.icons8.com/ios/50/FFFFFF/flask.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
